@@ -1,0 +1,20 @@
+{
+  "aditi": {
+    "email": "aditirewadkar@gmail.com",
+    "password": "$2b$12$UomlG8KB1FNh2U29DzflXugPC1ZJv5JhVvIC1fdhOKJpFc0fkJbqO",
+    "created_at": "2025-08-24T13:51:53.887064",
+    "last_login": "2025-08-25T12:39:22.102326"
+  },
+  "mohini": {
+    "email": "mohinideshmukh786@gmail.com",
+    "password": "$2b$12$.OG3EaLISNMQnXQD6i7.yuL9sQZk3O8MXHcoWlsDjYJfkGickEDbW",
+    "created_at": "2025-08-24T16:36:37.088350",
+    "last_login": "2025-08-24T21:11:37.120230"
+  },
+  "srushti": {
+    "email": "ssrushti1122kit@gmail.com",
+    "password": "$2b$12$1xW5P467QPPs8z1/bbhToeqbDihbzKFOXqwqBsonEnRorRPyiBZPy",
+    "created_at": "2025-08-25T01:08:17.526808",
+    "last_login": "2025-08-25T01:09:07.751349"
+  }
+}

@@ -1,0 +1,14 @@
+streamlit
+PyMuPDF
+python-docx
+pdfplumber
+sentence-transformers
+chromadb
+requests
+bcrypt
+extra-streamlit-components
+reportlab
+transformers
+torch
+nltk
+spacy
